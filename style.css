@@ -1,0 +1,55 @@
+body {
+    font-family: Roboto;
+    margin: auto;
+    font-weight:100;
+}
+
+img {
+    border-left: 10px dotted black;
+    padding-left: 5px;
+    margin-left: 50px;
+}
+.img {
+    border: none;
+    padding: 0px;
+    height: 90px;
+    width: 960px;
+    margin-left: 0%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-weight:100;
+    
+}
+
+h2 {
+    font-size: 24px;
+    font-weight:100;
+    text-align: center;
+    border-bottom: 5px solid black
+}
+.table {
+    margin: auto;
+}
+
+td  {
+    width: auto;
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.p {
+    font-size: 24px;
+    margin: 45px;
+    padding: 45px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+h3 {
+    border: 10px solid black;
+    border-collapse: collapse;
+    margin: 0%;
+    font-weight:100;
+}
